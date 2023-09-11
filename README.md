@@ -1,1 +1,1 @@
-# Sergey_G portfolio projects repository
+# SergeyTheGuy portfolio projects repository
