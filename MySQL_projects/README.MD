@@ -1,4 +1,4 @@
-# Normalising, organising, and analysing data using MySQL 
+# Data analysis with MySQL 
 The present repository contains personal data analysis projects completed with the use of MySQL.
 
 ## French bakery sales
@@ -13,5 +13,5 @@ Some of the major objectives of this project are:
 
 * Design a custome Python script to upload the data on MySQL server;
 * Perform data transformation and normalisation;
-* Calculate derivative columns;
+* Calculate design triggers for derivative columns;
 * Create views that could be utilised to visualise the key findings later
