@@ -2,7 +2,7 @@
 The present repository contains personal data analysis projects completed using Python.
 
 ## Exploratory data analysis of Amazon products
-**Jupyter notebook:** [EDA_Amazon_Products.ipynb][Python_projects/EDA_Amazon_Products.ipynb](https://github.com/SergeyTheGuy/Data_Analyst_Portfolio/blob/8ec3b67826680ea966c4fb63ad359f01ef769231/Python_projects/EDA_Amazon_Products.ipynb)
+**Jupyter notebook:** [EDA_Amazon_Products.ipynb](https://github.com/SergeyTheGuy/Data_Analyst_Portfolio/blob/8ec3b67826680ea966c4fb63ad359f01ef769231/Python_projects/EDA_Amazon_Products.ipynb)
 
 **Acknowledgement:** The dataset was retrieved from [kaggle.com](https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset).
 
