@@ -6,6 +6,8 @@ The present repository contains personal data analysis projects completed with t
 
 **Python script**: [Fr_baker_MySQL_upl.py](MySQL_projects/Fr_bakery_normalisation.sql)
 
+**Tableau visualisation**: [PowerPoint version](https://www.canva.com/design/DAF0PRhVen4/EHXqaP3kdV1S-YFftrn4oQ/view?utm_content=DAF0PRhVen4&utm_campaign=designshare&utm_medium=link&utm_source=editor), [Original file]
+
 **Acknowledgement:** The dataset was retrieved from [kaggle.com](https://www.kaggle.com/datasets/matthieugimbert/french-bakery-daily-sales). 
 
 **Description**
